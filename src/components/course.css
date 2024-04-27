@@ -1,0 +1,13 @@
+/* coursePage.css */
+
+.course-page-heading {
+    text-align: center;
+  }
+  
+  .course-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
